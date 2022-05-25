@@ -1,0 +1,6 @@
+Nama: Farrell
+Umur: 18
+Alamat: Solo
+Nama: Leo
+Umur: 19
+Alamat: Sukoharjo
